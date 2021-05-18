@@ -29,6 +29,7 @@
 	);
 
 // Palette.
+// Change color settings here
 	$palette: (
 		bg:					#242943,
 		bg-alt:				#2a2f4a,
@@ -43,5 +44,10 @@
 		accent3:			#ec8d81,
 		accent4:			#e7b788,
 		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		accent6:			#87c5a4,
+
+		/* my own definitions */
+		yellow:				#FFC300,
+		yellow_dark: 	#f5b041,
+		orange:				#ff8000
 	);

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="contact">
+	<div class="inner">
+		<header class="major">
+			<h1>Contact</h1>
+		</header>
+  </div>
+
+
+  <div class="inner">
+  <section>
+	<div class="6u 12u$(small)">
+	  You want to get in contact with me?
+		Don't hesitate and simply use this form down below.
+		I will try to do my best to answer you as quick as possible! Looking forward to hear from you ;)
+	  <br>
+	  <br>
+	</div>
+  </section>
+  </div>
+
+<!-- Contact -->
+
+	<div class="inner">
+		<section>
+			<form
+      action="https://formspree.io/f/mleajppr"
+      method="POST">
+				<div class="field half first">
+					<label for="name">Name (required)</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email (required)</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message (required)</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+
+    <!---
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="#">{{ site.email }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>{{ site.phone }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }}
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+		</section>
+    --->
+	</div>
+
+<!-- section contact --->
+</section>
+<!-- Main div --->
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>
