@@ -10,9 +10,9 @@ show_tile: false
 ---
 
 <h2>Who am I?</h2>
-Hi, I'm Oliver :)
+Hi, I'm Oliver (Kalule) Küchler :)
+
 I was originally born in Düren (NRW), Germany.
-<br>
 However, for my undergraduate studies I moved to the city Saarbrücken in Saarland, which is at the borders to France and Luxembourg.
 After my successful graduation with a Bachelor in Bioinformatics I decided to take a break from studies and do instead a voluntary social year with the humanitarian organization <a href="https://adra.org/" target="_blank">ADRA</a> in Uganda.
 Enriched by countless inspiring encounters and unique experiences which pushed me strongly forward in my personal development, I chose to continue with my Bioinformatics studies in Berlin at Freie Universität Berlin.
