@@ -16,7 +16,10 @@ I was originally born in Düren (NRW), Germany.
 However, for my undergraduate studies I moved to the city Saarbrücken in Saarland, which is at the borders to France and Luxembourg.
 After my successful graduation with a Bachelor in Bioinformatics I decided to take a break from studies and do instead a voluntary social year with the humanitarian organization <a href="https://adra.org/" target="_blank">ADRA</a> in Uganda.
 Enriched by countless inspiring encounters and unique experiences which pushed me strongly forward in my personal development, I chose to continue with my Bioinformatics studies in Berlin at Freie Universität Berlin.
-And here I am today: Closely to the end of my studies of my Master in Bioinformatics.
+And here I am today: ~~Closely to the end of my studies of my Master in Bioinformatics.~~
+I've made it! 
+And even better: I'm now pursuing my PhD. at the Charité Hospital of Berlin! :D
+
 
 <h4>In my freetime you will find me:</h4>
 <div class="row">
@@ -24,8 +27,8 @@ And here I am today: Closely to the end of my studies of my Master in Bioinforma
 		<ul>
 			<li>Diving deep into my current Programming-Projects</li>
 			<li>Playing passionately on my beloved guitar, if possible jamming with friends </li>
-      <li>Doing some sports like jogging, tennis and volleyball</li>
-      <li>Having joint breakfast or dinner meetings with my housemates in the student-dorm</li>
+			<li>Dancing some Salsa, Bachata, or even Swing</li>
+			<li>Doing some sports like jogging, tennis and volleyball</li>
 			<li>Practising my french skills</li>
 		</ul>
   </div>
